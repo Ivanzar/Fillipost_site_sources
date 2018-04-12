@@ -8,4 +8,5 @@ body {
 	margin-right: 50px;
 	margin-top: 120px;
 	margin-bottom: 50px;
+	overflow: scroll;
 }
